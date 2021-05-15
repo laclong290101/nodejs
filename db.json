@@ -1,0 +1,304 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "categoryId": "1",
+            "name": "Găng Taichi RST390",
+            "image": "https://firebasestorage.googleapis.com/v0/b/shopping-85507.appspot.com/o/images%2F133420622_145697774013920_3061328711881393298_o.jpg?alt=media&token=50c91434-6376-486e-a0ee-40c168c206c4",
+            "price": "849.00",
+            "description": "\"TÍNH NĂNG NỔI BẬT Giữ ấm tuyệt vời Chống nước tuyệt đối Lòng bàn tay làm nhám giúp cầm đồ vật chắc chắn Lớp lót bên trong thấm mồ hôi giúp thoải mái khi sử dụng Có khóa giúp găng ôm chặt tay, đảm bảo khi sử dụng. Giúp người sử dụng luôn có cảm giác thoải mái nhất. Đặc biệt trong những ngày mưa rét ở miền Bắc thì khả năng chống nước của chiếc găng tay này càng được thể hiện. Mặt bên trong găng tay sử dụng lớp lót chất lượng cao. Lớp lót này không chỉ có chức năng giữ nhiệt tuyệt vời mà còn có khả năng thấm mồ hôi rất tốt. Giúp người sử dụng có được cảm giác mềm mại, dễ chịu nhất.  Tương tự nhiều găng tay phượt thủ khác, găng tay được thiết kế khóa giúp ôm tay chắc chắn. Thoải mái trong quá trình sử dụng. Chú ý đến từng chi tiết, lòng găng tay sử dụng nhám silicon giúp cầm nắm chắc chắn.  Đầu ngón tay trỏ và ngón có thể cảm ứng để sử dụng điện thoại\"",
+            "status": false,
+            "quantity": 82644,
+            "countInstock": 34,
+            "Material": "Plastic"
+        },
+        {
+            "id": "2",
+            "categoryId": "1",
+            "name": "Găng M280",
+            "image": "https://firebasestorage.googleapis.com/v0/b/shopping-85507.appspot.com/o/images%2F131924520_1051515781994699_4846268537323292656_o.jpg?alt=media&token=507e0a03-6833-499f-9f77-4e0427246e5a",
+            "price": "742.00",
+            "description": "\"TÍNH NĂNG NỔI BẬT Giữ ấm tuyệt vời Chống nước tuyệt đối Lòng bàn tay làm nhám giúp cầm đồ vật chắc chắn Lớp lót bên trong thấm mồ hôi giúp thoải mái khi sử dụng Có khóa giúp găng ôm chặt tay, đảm bảo khi sử dụng. Giúp người sử dụng luôn có cảm giác thoải mái nhất. Đặc biệt trong những ngày mưa rét ở miền Bắc thì khả năng chống nước của chiếc găng tay này càng được thể hiện. Mặt bên trong găng tay sử dụng lớp lót chất lượng cao. Lớp lót này không chỉ có chức năng giữ nhiệt tuyệt vời mà còn có khả năng thấm mồ hôi rất tốt. Giúp người sử dụng có được cảm giác mềm mại, dễ chịu nhất.  Tương tự nhiều găng tay phượt thủ khác, găng tay được thiết kế khóa giúp ôm tay chắc chắn. Thoải mái trong quá trình sử dụng. Chú ý đến từng chi tiết, lòng găng tay sử dụng nhám silicon giúp cầm nắm chắc chắn.  Đầu ngón tay trỏ và ngón có thể cảm ứng để sử dụng điện thoại\"",
+            "status": true,
+            "quantity": 57587,
+            "countInstock": 34,
+            "Material": "Plastic"
+        },
+        {
+            "id": "3",
+            "categoryId": "2",
+            "name": "Mũ phượt",
+            "image": "https://firebasestorage.googleapis.com/v0/b/shopping-85507.appspot.com/o/images%2F35001398_245511926003014_3620841375387353088_n.jpg?alt=media&token=27d95602-95cb-4b4a-9621-d93f769f2bab",
+            "price": "633.00",
+            "description": "Được coi là  mũ bảo hiểm hot nhất 2017 những chiếc mũ nón nửa đầu với mẫu mã đa dạng hình in sắc nét cùng kính chống bụi thời trang chắc chắn sẽ làm vừa ý những khách hàng khó tính nhất. Với mức trợ giá cực tốt để đưa sản phẩm về mức giá cực rẻ  Mũ nón bảo hiểm là sản phẩm không thể thiếu đối với bất cứ người đi xe máy nào. Dù vậy, cảm giác di chuyển trong phố nhưng phải đội một chiếc mũ trùm kín ngột ngạt là không hề dễ chịu. Khi đó, tác dụng của những chiếc mũ bảo hiểm nữa đầu được thể hiện rõ rệt.",
+            "status": false,
+            "quantity": 51117,
+            "countInstock": 34,
+            "Material": "cate2"
+        },
+        {
+            "id": "4",
+            "categoryId": "2",
+            "name": "Mũ phượt",
+            "image": "https://firebasestorage.googleapis.com/v0/b/shopping-85507.appspot.com/o/images%2F35001571_459340211163551_136722252279316480_n.jpg?alt=media&token=87e3e6f1-7a5a-41b6-a3c8-d99835fc6590",
+            "price": "728.00",
+            "description": "Được coi là  mũ bảo hiểm hot nhất 2017 những chiếc mũ nón nửa đầu với mẫu mã đa dạng hình in sắc nét cùng kính chống bụi thời trang chắc chắn sẽ làm vừa ý những khách hàng khó tính nhất. Với mức trợ giá cực tốt để đưa sản phẩm về mức giá cực rẻ  Mũ nón bảo hiểm là sản phẩm không thể thiếu đối với bất cứ người đi xe máy nào. Dù vậy, cảm giác di chuyển trong phố nhưng phải đội một chiếc mũ trùm kín ngột ngạt là không hề dễ chịu. Khi đó, tác dụng của những chiếc mũ bảo hiểm nữa đầu được thể hiện rõ rệt.",
+            "status": false,
+            "quantity": 56,
+            "countInstock": 34,
+            "Material": "cate2"
+        },
+        {
+            "id": "5",
+            "categoryId": "2",
+            "name": "Mũ phượt",
+            "image": "https://firebasestorage.googleapis.com/v0/b/shopping-85507.appspot.com/o/images%2F27879850_544636332582953_5072127029617360896_n.jpg?alt=media&token=a6b4d852-5782-431a-a410-8d310317f3b2",
+            "price": "364.00",
+            "description": "Được coi là  mũ bảo hiểm hot nhất 2017 những chiếc mũ nón nửa đầu với mẫu mã đa dạng hình in sắc nét cùng kính chống bụi thời trang chắc chắn sẽ làm vừa ý những khách hàng khó tính nhất. Với mức trợ giá cực tốt để đưa sản phẩm về mức giá cực rẻ  Mũ nón bảo hiểm là sản phẩm không thể thiếu đối với bất cứ người đi xe máy nào. Dù vậy, cảm giác di chuyển trong phố nhưng phải đội một chiếc mũ trùm kín ngột ngạt là không hề dễ chịu. Khi đó, tác dụng của những chiếc mũ bảo hiểm nữa đầu được thể hiện rõ rệt.",
+            "status": true,
+            "quantity": 7373,
+            "countInstock": 34,
+            "Material": "cate2"
+        },
+        {
+            "id": "6",
+            "categoryId": "3",
+            "name": "Áo",
+            "image": "https://firebasestorage.googleapis.com/v0/b/shopping-85507.appspot.com/o/images%2F122749435_182652283432059_7181275764758524458_n.jpg?alt=media&token=b64face9-5a4b-42ac-a902-fb3e07f3f2a9",
+            "price": "654.00",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur, nam a alias illo repellendus ex quidem in, quos beatae ducimus sit voluptate saepe laudantium voluptatibus voluptatum. Tempore alias recusandae doloribus?",
+            "status": true,
+            "quantity": 126,
+            "countInstock": 34,
+            "Material": "cate3"
+        },
+        {
+            "id": "7",
+            "categoryId": "3",
+            "name": "Áo",
+            "image": "https://firebasestorage.googleapis.com/v0/b/shopping-85507.appspot.com/o/images%2F154575596_850917965765482_46164206410825944_o.jpg?alt=media&token=f639bd7f-b2dc-4b45-b147-18eab377353d",
+            "price": "795.00",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur, nam a alias illo repellendus ex quidem in, quos beatae ducimus sit voluptate saepe laudantium voluptatibus voluptatum. Tempore alias recusandae doloribus?",
+            "status": true,
+            "quantity": 61,
+            "countInstock": 34,
+            "Material": "cate3"
+        },
+        {
+            "id": "8",
+            "categoryId": "3",
+            "name": "Áo",
+            "image": "https://firebasestorage.googleapis.com/v0/b/shopping-85507.appspot.com/o/images%2F119476347_1686379194869420_5480430647321066231_n.jpg?alt=media&token=a81d7ad9-de94-4708-9d5e-cad72fdd4b2b",
+            "price": "513.00",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur, nam a alias illo repellendus ex quidem in, quos beatae ducimus sit voluptate saepe laudantium voluptatibus voluptatum. Tempore alias recusandae doloribus?",
+            "status": false,
+            "quantity": 36,
+            "countInstock": 34,
+            "Material": "cate3"
+        },
+        {
+            "id": "9",
+            "categoryId": "3",
+            "name": "Áo",
+            "image": "https://firebasestorage.googleapis.com/v0/b/shopping-85507.appspot.com/o/images%2F155811631_1334223256962275_5801043617012541795_o.jpg?alt=media&token=ea676ce7-df25-46c9-8051-cf78246405cb",
+            "price": "741.00",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur, nam a alias illo repellendus ex quidem in, quos beatae ducimus sit voluptate saepe laudantium voluptatibus voluptatum. Tempore alias recusandae doloribus?",
+            "status": false,
+            "quantity": 219,
+            "countInstock": 34,
+            "Material": "cate3"
+        },
+        {
+            "id": "10",
+            "categoryId": "4",
+            "name": "Balo",
+            "image": "https://firebasestorage.googleapis.com/v0/b/shopping-85507.appspot.com/o/images%2F131935965_1284636878561109_4675577754738279488_n.jpg?alt=media&token=3ad99e45-86b2-4fcb-8141-c0d368076df9",
+            "price": "471.00",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur, nam a alias illo repellendus ex quidem in, quos beatae ducimus sit voluptate saepe laudantium voluptatibus voluptatum. Tempore alias recusandae doloribus?",
+            "status": true,
+            "quantity": 42,
+            "countInstock": 34,
+            "Material": "cate4"
+        },
+        {
+            "id": "11",
+            "categoryId": "4",
+            "name": "Balo",
+            "image": "https://firebasestorage.googleapis.com/v0/b/shopping-85507.appspot.com/o/images%2F140408922_1531844210353383_3918157189319936851_n.jpg?alt=media&token=8cab99a9-e4c8-46b2-b86e-160c55e066fc",
+            "price": "824.00",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur, nam a alias illo repellendus ex quidem in, quos beatae ducimus sit voluptate saepe laudantium voluptatibus voluptatum. Tempore alias recusandae doloribus?",
+            "status": true,
+            "quantity": 86,
+            "countInstock": 34,
+            "Material": "cate4"
+        },
+        {
+            "id": "12",
+            "categoryId": "4",
+            "name": "BALO 3P CHUYÊN ĐI PHƯỢT, DÃ NGOẠI, DU LỊCH",
+            "image": "https://firebasestorage.googleapis.com/v0/b/shopping-85507.appspot.com/o/images%2F153443627_1920567758092067_1066019891984732776_n.jpg?alt=media&token=238d1022-908e-49d8-bee1-c762713b2701",
+            "price": "611.00",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur, nam a alias illo repellendus ex quidem in, quos beatae ducimus sit voluptate saepe laudantium voluptatibus voluptatum. Tempore alias recusandae doloribus?",
+            "status": false,
+            "quantity": 144,
+            "countInstock": 34,
+            "Material": "cate4"
+        },
+        {
+            "id": "13",
+            "categoryId": "4",
+            "name": "Balo",
+            "image": "https://firebasestorage.googleapis.com/v0/b/shopping-85507.appspot.com/o/images%2F138203695_230868061854158_1219520871793188747_o.jpg?alt=media&token=511c1718-32a0-40c1-93f1-f8d3fd8c63bc",
+            "price": "821.00",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur, nam a alias illo repellendus ex quidem in, quos beatae ducimus sit voluptate saepe laudantium voluptatibus voluptatum. Tempore alias recusandae doloribus?",
+            "status": false,
+            "quantity": 64,
+            "countInstock": 34,
+            "Material": "cate4"
+        },
+        {
+            "id": "14",
+            "categoryId": "4",
+            "name": "Balo",
+            "image": "https://firebasestorage.googleapis.com/v0/b/shopping-85507.appspot.com/o/images%2F153443627_1920567758092067_1066019891984732776_n.jpg?alt=media&token=99ba9601-e880-48d6-bfc5-080c474f63a1",
+            "price": "894.00",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur, nam a alias illo repellendus ex quidem in, quos beatae ducimus sit voluptate saepe laudantium voluptatibus voluptatum. Tempore alias recusandae doloribus?",
+            "status": true,
+            "quantity": 94,
+            "countInstock": 34,
+            "Material": "cate4"
+        },
+        {
+            "id": "15",
+            "categoryId": "5",
+            "name": "Lều",
+            "image": "https://firebasestorage.googleapis.com/v0/b/shopping-85507.appspot.com/o/images%2F154328692_2067716580031680_9133315854980060434_n.jpg?alt=media&token=b1fe3c8c-2086-4d63-9b17-03b76eb741ba",
+            "price": "156.00",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur, nam a alias illo repellendus ex quidem in, quos beatae ducimus sit voluptate saepe laudantium voluptatibus voluptatum. Tempore alias recusandae doloribus?",
+            "status": false,
+            "quantity": 134,
+            "countInstock": 34,
+            "Material": "cate5"
+        },
+        {
+            "id": "8ysyy1m8y",
+            "categoryId": "5",
+            "name": "ABC",
+            "image": "https://firebasestorage.googleapis.com/v0/b/shopping-85507.appspot.com/o/images%2F14309948_529091777289438_1438852088_n.jpg?alt=media&token=a56b3fc8-6489-4c51-b7f6-dc4a2f7df2b5",
+            "price": "215",
+            "description": "aaaaaaaaaaaaaaaaaa"
+        }
+    ],
+    "categories": [
+        {
+            "id": "1",
+            "name": "Găng"
+        },
+        {
+            "id": "2",
+            "name": "Mũ"
+        },
+        {
+            "id": "3",
+            "name": "Áo Khoác"
+        },
+        {
+            "id": "4",
+            "name": "Balo"
+        },
+        {
+            "id": "5",
+            "name": "Lều"
+        }
+    ],
+    "news": [
+        {
+            "id": "1",
+            "name": "Cung Đường Phượt Bát Xát Có Đến 8 Điểm Dừng Chân Đẹp Hút Hồn, Bạn Biết Chưa?",
+            "image": "https://staticproxy.mytourcdn.com/480x360,q90/resources/pictures/locations/y9k1484639063.jpg",
+            "description": "Bát Xát - miền biên viễn nơi đại ngàn Tây Bắc làm xuyến xao bao trái tim người lữ hành bởi vẻ đẹp rất đỗi hoang sơ nhưng không kém phần mơ mộng. Bát Xát hệt như nụ cười thẹn thùng duyên dáng của cô gái sơn cước, vừa nhoẻn miệng đã thấy cả mặt trời rực rỡ về trên bản làng. Bát Xát hấp dẫn đến thế nên các phượt thủ không thể bỏ lỡ cơ hội được một lần chinh phục nơi ấy. Và trên hành trình tìm về Bát Xát, phượt thủ sẽ có dịp dừng chân ở 8 điểm check-in tuyệt đẹp. Dẹp bỏ hết những bộn bề và tất bật của năm cũ, lên kế hoạch phượt Bát Xát đón một năm mới tràn đầy sinh khí ngay thôi!"
+        },
+        {
+            "id": "2",
+            "name": "Một Mảnh Trong Veo Nơi Cung Đường Biển Trải Đầy Nắng Ở Nha Trang",
+            "image": "https://mytourcdn.com/upload_images/Image/Location/10_11_2016/6/du-lich-cung-duong-bien-Nha-Trang-mytour-1.jpg",
+            "description": "Là gió là phải được tự do. Đã bao giờ bạn ước mình được như cơn gió mênh mang vô định, đi mãi về miền xa lạ, không chốn dừng chân và cũng không hề mỏi mệt? Có những cung đường, khiến người ta tự biến mình thành cơn gió thoảng. Cứ len hết mình đi về phía trước, trong làn gió mát dịu vợi cùng cái nắng rực rỡ như thanh xuân tươi đẹp ấy. Đến với thành phố biển Nha Trang, không chỉ có khung trời xanh mát của biển cả, mà còn có cả những cung đường biển đầy nắng ôm trọn cả thanh xuân."
+        },
+        {
+            "id": "3",
+            "name": "Bộ Ảnh Cưới Trên Cung Đường Phượt Tuyệt Đẹp Của Cặp Đôi 'Yêu Nhau Từ Cái Nhìn Đầu Tiên'",
+            "image": "https://mytourcdn.com/upload_images/Image/Location/9_11_2016/12/bo-anh-cuoi-tren-cung-duong-phuot-mytour-1.jpg",
+            "description": "Bộ ảnh siêu chất này ra đời dựa trên đam mê về tốc độ và sở thích rong ruổi, trải nghiệm những cung đường mới của Trường Nhật và Minh Phương. Không quá cầu kì, chỉ sử dụng những trang phục, vật dụng quen thuộc vốn được dùng trong các chuyến đi phượt trước đó của đôi bạn trẻ, nhưng cảnh sắc tuyệt đẹp của cung đường Tây Bắc nước Việt Nam mình được gói gọn trong đấy, cùng với ý tưởng cũng như chính tình yêu của hai người đã khiến những bức ảnh trở nên lung linh lạ thường."
+        },
+        {
+            "id": "4",
+            "name": "Lãng Mạn Mùa Cỏ Lau Về Trên Sống Lưng Khủng Long",
+            "image": "https://mytourcdn.com/upload_images/Image/Location/3_11_2016/5/du-lich-duong-phuot-Binh-Lieu-mytour-1.jpg",
+            "description": "Có một điểm đến ở miền Bắc sẽ khiến bạn cảm nhận như được bước vào một thiên đường du lịch với vẻ màu hoang sơ của núi rừng và đồi cỏ lau mộng mị. Đó không phải là một nơi nào khác ngoài cung đường phượt Bình Liêu. Bình Liêu không chỉ đơn thuần là một cung đường phượt hùng vĩ mà còn là một điểm du lịch lãng mạn dành cho các cặp đôi mùa cỏ lau ùa về!"
+        },
+        {
+            "id": "5",
+            "name": "Bình Minh Lên Tại Thiên Hạ Đệ Nhất Hùng Quan - Hải Vân Quan",
+            "image": "https://mytourcdn.com/upload_images/Image/Location/23_11_2016/9/don-binh-minh-hai-van-quan-mytour-2.jpg",
+            "description": "Con đèo nổi tiếng từ xưa đến nay của khu vực miền Trung Việt Nam - đèo Hải Vân đã tốn không biết bao nhiêu giấy mực, đi vào lời ca tiếng hát của vô vàn tác phẩm đi cùng năm tháng, đủ để hiểu ý nghĩa và lòng yêu mến của mọi người dành cho con đèo dài 20km, nối liền Huế và Đà Nẵng này. Khách du lịch đến với Huế hay Đà Nẵng cũng đều tranh thủ ghé thắng cảnh này, đón bình minh, hoàng hôn hay cả trưa nắng gắt đều tuyệt đẹp.Đèo Hải Vân nổi bật trên nền nước biển Đông xanh ngắt, nằm dọc theo đường bờ biển 1600km của Việt Nam. Trước đây, con đèo cao này đã tạo nên bức tường ngăn cách hai nền văn hóa giữa phía Nam và vùng châu thổ sông Hồng. Ngày nay những rào cản đó đã bị loại bỏ, nhưng đèo Hải Vân vẫn là ranh giới của hai nền khí hậu: vùng nhiệt đới chịu ảnh hưởng của gió mùa Nam Á (miền Nam) và vùng khí hậu cận ôn đới (miền Bắc). Bởi thế, từ tiếng nói, phong tục, cũng như thời tiết, “đi qua đèo mọi thứ khác hẳn”."
+        }
+    ],
+    "register": [
+        {
+            "id": "1",
+            "username": "hai",
+            "email": "abc@gmail.com",
+            "password": "123",
+            "gioitinh": "nam"
+        },
+        {
+            "id": "wzax9mp3n",
+            "username": "nguyentruonghai",
+            "email": "thuchanhtin2901@gmail.com",
+            "password": "123",
+            "gioitinh": "Nam"
+        },
+        {
+            "id": "g9a2f3hc2",
+            "username": "abc",
+            "email": "admin@gmail.com",
+            "password": "123",
+            "gioitinh": "Nữ"
+        },
+        {
+            "id": "klce3vmrg",
+            "username": "abc",
+            "email": "admin@gmail.com",
+            "password": "123",
+            "gioitinh": "Nam"
+        },
+        {
+            "id": "7hakgoz0g",
+            "username": "Nguyen truong hai",
+            "email": "gag@gmail.com",
+            "password": "123",
+            "gioitinh": "Nam"
+        },
+        {
+            "id": "fglbzlmu9",
+            "username": "nguyentruonghai",
+            "email": "thuchanhtin2901@gmail.com",
+            "password": "123",
+            "gioitinh": "Nam"
+        },
+        {
+            "id": "hsin2ye5b",
+            "username": "nguyentruonghai",
+            "email": "thuchanhtin2901@gmail.com",
+            "password": "123",
+            "gioitinh": "Nam"
+        },
+        {
+            "id": "f1tmqwvdv",
+            "username": "son",
+            "email": "aaaaaaaaaa@gmail.com",
+            "password": "123",
+            "gioitinh": "Nam"
+        }
+    ]
+}
